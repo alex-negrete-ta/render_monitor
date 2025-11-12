@@ -7,10 +7,10 @@ Get a better clarification on the jobs status for each render project and get a 
 # The solution.
 Grabs the CSV file and separate it using an algorithm. After it determine its status to either promote the job or to publish the status of the failed jobs.
 
-#Libraries Used:
+# Libraries Used:
 pandas, numpy, os, and tabulate
 
-#How to use:
+# How to use:
 As long as you have your CSV in the same folder as your project, it should run, and print all the necessary information, and make the adjustments.
 Run the main code in your CLI: 
 python render_monitor 
